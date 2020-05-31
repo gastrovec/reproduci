@@ -4,6 +4,21 @@ Version 0.1
 
 *reproduci* ([re.pro'du.ʧ]) is a methodology for reproducible research.
 
+- [Motivation](#motivation)
+- [Previous Work](#previous-work)
+- [Principles](#principles)
+- [Folder structure](#folder-structure)
+   - [sources/](#sources)
+   - [outputs/](#outputs)
+   - [workdata/](#workdata)
+   - [scripts/](#scripts)
+   - [persistent/](#persistent)
+   - [writing/](#writing)
+   - [store/](#store)
+   - [Makefile](#makefile)
+   - [Other files and folders](#other-files-and-folders)
+- [Companion Software](#companion-software)
+
 ### Motivation
 
 Much of our research emerges experimentally, and over long periods of time
