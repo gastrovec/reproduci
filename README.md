@@ -55,8 +55,8 @@ for details.
 
 | In VCS? | Name         | Description    | Permissions |
 |---------|--------------|----------------|-------------|
-| ?       | `sources/`     | Original files | `r--r--r--`   |
-| ✖︎       | `outputs/`     | Final outputs  | `r--r---w-`   |
+| ?       | `sources/`     | Original files | `r--r--r-T`   |
+| ✖︎       | `outputs/`     | Final outputs  | `r---w-r--`   |
 | ✖︎       | `workdata/`    | Intermediaries | `r--rw----`   |
 | ✔︎       | `scripts/`     | Programs, etc. | `rw-r-----`   |
 | ✔︎       | `persistent/`  | Annotations    | `rw-r-----`   |
